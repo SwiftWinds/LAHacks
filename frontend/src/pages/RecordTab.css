@@ -1,0 +1,12 @@
+.upload-modal .modal-wrapper {
+  height: 20%;
+  top: 30%;
+  position: absolute;
+  display: block;
+}
+
+.modal-status {
+  color: #ffffff;
+  font-size: 18px;
+  margin-left: 22px;
+}
