@@ -1,8 +1,12 @@
 .upload-modal .modal-wrapper {
-  height: 20%;
+  height: 30%;
   top: 30%;
   position: absolute;
   display: block;
+}
+
+.is-uploading {
+  height: 70%;
 }
 
 .modal-status {
